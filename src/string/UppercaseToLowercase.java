@@ -19,6 +19,8 @@ public class UppercaseToLowercase {
 
         for (int i=0; i< question.length(); i++) {
             char c = question.charAt(i);
+
+            System.out.println(Character.isUpperCase(c));
             if(Character.isUpperCase(c)) {
                 answer += Character.toLowerCase(c);
             } else {
