@@ -5,6 +5,7 @@ import java.util.Scanner;
 /**
  * 백준 10158 문제
  * 문제 : 개미가 45도로 움직인다. 그리고 반사되어 간다.
+ * 
  */
 public class ant {
 

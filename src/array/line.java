@@ -29,7 +29,6 @@ public class line {
 
         int count = 0;
 
-
         // 서있는 순서대로 뒤에 선다.
         for (int i=1; i<studentLine.length; i++) {
 
